@@ -11,4 +11,3 @@ There are 3 states in the main game, the Idle Mode, the Playing Mode and the Dea
 player to start the game. The playing mode is where the player is controling the bird (or box in my case). The dead mode is where 
 the bird is dead, and the player can see his current score and his high score.
 The game also uses Player Preferences so that it can store information about high scores and volume control, in between sessions.
-
